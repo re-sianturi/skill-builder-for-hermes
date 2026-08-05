@@ -1,0 +1,28 @@
+{
+  "penolakan": [
+    {
+      "nama": "Andi Setiawan",
+      "alasan": "Biaya jasa konsultasi pajak terlalu mahal"
+    },
+    {
+      "nama": "Rina Wahyuni",
+      "alasan": "Kurangnya kepercayaan terhadap jasa konsultasi pajak"
+    },
+    {
+      "nama": "Budi Santoso",
+      "alasan": "Biaya jasa konsultasi pajak terlalu mahal"
+    },
+    {
+      "nama": "Sri Wahyuni",
+      "alasan": "Kurangnya kepercayaan terhadap jasa konsultasi pajak"
+    },
+    {
+      "nama": "Tono Sudarto",
+      "alasan": "Biaya jasa konsultasi pajak terlalu mahal"
+    }
+  ],
+  "pola_penolakan": {
+    "biaya": 3,
+    "kepercayaan": 2
+  }
+}

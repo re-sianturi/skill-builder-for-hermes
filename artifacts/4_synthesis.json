@@ -1,0 +1,117 @@
+{
+  "specs": {
+    "tripwire": "Produk berisiko sangat rendah, bernilai tinggi, murah (di bawah Rp 100.000) untuk memicu pembelian pertama"
+  },
+  "recommendations": [
+    {
+      "persona_name": "Andi Setiawan",
+      "title": "Panduan Efisiensi Pajak Perusahaan",
+      "deliverables": [
+        "Ebook panduan efisiensi pajak perusahaan",
+        "Template perhitungan pajak"
+      ],
+      "effort_level": "Less Effort",
+      "estimated_price": "Rp 50.000",
+      "hidden_problem_trigger": "Kebocoran payroll dan kecurangan tim"
+    },
+    {
+      "persona_name": "Andi Setiawan",
+      "title": "Analisis Kebocoran Payroll",
+      "deliverables": [
+        "Laporan analisis kebocoran payroll",
+        "Rekomendasi perbaikan"
+      ],
+      "effort_level": "Medium Effort",
+      "estimated_price": "Rp 80.000",
+      "hidden_problem_trigger": "Kebocoran payroll dan kecurangan tim"
+    },
+    {
+      "persona_name": "Rina Wahyuni",
+      "title": "Panduan Kepatuhan Pajak Perusahaan",
+      "deliverables": [
+        "Ebook panduan kepatuhan pajak perusahaan",
+        "Template perhitungan pajak"
+      ],
+      "effort_level": "Less Effort",
+      "estimated_price": "Rp 50.000",
+      "hidden_problem_trigger": "Kesulitan dalam mengelola keuangan perusahaan"
+    },
+    {
+      "persona_name": "Rina Wahyuni",
+      "title": "Analisis Keuangan Perusahaan",
+      "deliverables": [
+        "Laporan analisis keuangan perusahaan",
+        "Rekomendasi perbaikan"
+      ],
+      "effort_level": "Medium Effort",
+      "estimated_price": "Rp 80.000",
+      "hidden_problem_trigger": "Kesulitan dalam mengelola keuangan perusahaan"
+    },
+    {
+      "persona_name": "Budi Santoso",
+      "title": "Panduan Efisiensi Biaya Perusahaan",
+      "deliverables": [
+        "Ebook panduan efisiensi biaya perusahaan",
+        "Template perhitungan biaya"
+      ],
+      "effort_level": "Less Effort",
+      "estimated_price": "Rp 50.000",
+      "hidden_problem_trigger": "Kebocoran keuangan perusahaan"
+    },
+    {
+      "persona_name": "Budi Santoso",
+      "title": "Analisis Kebocoran Biaya",
+      "deliverables": [
+        "Laporan analisis kebocoran biaya",
+        "Rekomendasi perbaikan"
+      ],
+      "effort_level": "Medium Effort",
+      "estimated_price": "Rp 80.000",
+      "hidden_problem_trigger": "Kebocoran keuangan perusahaan"
+    },
+    {
+      "persona_name": "Sri Wahyuni",
+      "title": "Panduan Kepatuhan Keuangan Perusahaan",
+      "deliverables": [
+        "Ebook panduan kepatuhan keuangan perusahaan",
+        "Template perhitungan keuangan"
+      ],
+      "effort_level": "Less Effort",
+      "estimated_price": "Rp 50.000",
+      "hidden_problem_trigger": "Kesulitan dalam mengelola keuangan perusahaan"
+    },
+    {
+      "persona_name": "Sri Wahyuni",
+      "title": "Analisis Keuangan Perusahaan",
+      "deliverables": [
+        "Laporan analisis keuangan perusahaan",
+        "Rekomendasi perbaikan"
+      ],
+      "effort_level": "Medium Effort",
+      "estimated_price": "Rp 80.000",
+      "hidden_problem_trigger": "Kesulitan dalam mengelola keuangan perusahaan"
+    },
+    {
+      "persona_name": "Tono Sudarto",
+      "title": "Panduan Efisiensi Biaya Perusahaan",
+      "deliverables": [
+        "Ebook panduan efisiensi biaya perusahaan",
+        "Template perhitungan biaya"
+      ],
+      "effort_level": "Less Effort",
+      "estimated_price": "Rp 50.000",
+      "hidden_problem_trigger": "Kebocoran keuangan perusahaan"
+    },
+    {
+      "persona_name": "Tono Sudarto",
+      "title": "Analisis Kebocoran Biaya",
+      "deliverables": [
+        "Laporan analisis kebocoran biaya",
+        "Rekomendasi perbaikan"
+      ],
+      "effort_level": "Medium Effort",
+      "estimated_price": "Rp 80.000",
+      "hidden_problem_trigger": "Kebocoran keuangan perusahaan"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "checklist": {
+    "harga_kompetitif": true,
+    "nilai_tambah": true,
+    "deliverables_jelas": true,
+    "effort_level_tepat": true,
+    "target_pasar_tepat": true,
+    "harga_core_offer_tinggi": true,
+    "tripwire_harga_relatif_murah": true,
+    "hidden_problem_trigger_relevan": true,
+    "persona_name_tepat": true,
+    "title_tripwire_jelas": true,
+    "konsistensi_pesan": true
+  },
+  "overall_pass": true,
+  "fixes": []
+}

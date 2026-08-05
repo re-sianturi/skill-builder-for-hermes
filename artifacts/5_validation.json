@@ -1,0 +1,20 @@
+{
+  "checklist": {
+    "harga_kompetitif": true,
+    "nilai_tambah": true,
+    "deliverables_jelas": true,
+    "effort_level_tepat": true,
+    "target_pasar_tepat": true,
+    "harga_core_offer_tinggi": true,
+    "tripwire_relevan": true,
+    "hidden_problem_trigger_tepat": true,
+    "persona_name_tepat": true,
+    "title_tripwire_jelas": true,
+    "estimated_price_tepat": false
+  },
+  "overall_pass": false,
+  "fixes": [
+    "Perbarui estimated_price tripwire untuk lebih kompetitif dengan harga pasar",
+    "Pastikan deliverables tripwire sesuai dengan kebutuhan target pasar"
+  ]
+}

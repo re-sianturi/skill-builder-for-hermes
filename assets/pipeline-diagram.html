@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tripwire Generator Agentic Architecture</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'JetBrains Mono', monospace; background: #020617; min-height: 100vh; padding: 2rem; color: white; }
+    .container { max-width: 1200px; margin: 0 auto; }
+    .header { margin-bottom: 2rem; }
+    .header-row { display: flex; align-items: center; gap: 1rem; margin-bottom: 0.5rem; }
+    .pulse-dot { width: 12px; height: 12px; background: #22d3ee; border-radius: 50%; animation: pulse 2s infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+    h1 { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.025em; }
+    .subtitle { color: #94a3b8; font-size: 0.875rem; margin-left: 1.75rem; }
+    .diagram-container { background: rgba(15, 23, 42, 0.5); border-radius: 1rem; border: 1px solid #1e293b; padding: 1.5rem; overflow-x: auto; }
+    svg { width: 100%; min-width: 900px; display: block; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin-top: 2rem; }
+    .card { background: rgba(15, 23, 42, 0.5); border-radius: 0.75rem; border: 1px solid #1e293b; padding: 1.25rem; }
+    .card-header { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.75rem; }
+    .card-dot { width: 8px; height: 8px; border-radius: 50%; }
+    .card-dot.cyan { background: #22d3ee; }
+    .card-dot.emerald { background: #34d399; }
+    .card-dot.violet { background: #a78bfa; }
+    .card-dot.amber { background: #fbbf24; }
+    .card-dot.rose { background: #fb7185; }
+    .card h3 { font-size: 0.875rem; font-weight: 600; }
+    .card ul { list-style: none; color: #94a3b8; font-size: 0.75rem; }
+    .card li { margin-bottom: 0.375rem; }
+    .footer { text-align: center; margin-top: 1.5rem; color: #475569; font-size: 0.75rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="header-row">
+        <div class="pulse-dot"></div>
+        <h1>Tripwire Generator Architecture</h1>
+      </div>
+      <p class="subtitle">Multi-Agent Self-Liquidating Offer Pipeline & Stateful Execution Engine</p>
+    </div>
+
+    <div class="diagram-container">
+      <svg viewBox="0 0 1000 620">
+        <defs>
+          <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+            <polygon points="0 0, 10 3.5, 0 7" fill="#64748b" />
+          </marker>
+          <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+            <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.5"/>
+          </pattern>
+        </defs>
+        <rect width="100%" height="100%" fill="url(#grid)" />
+
+        <!-- User / CLI Entrance -->
+        <rect x="30" y="260" width="110" height="60" rx="6" fill="rgba(30, 41, 59, 0.5)" stroke="#94a3b8" stroke-width="1.5"/>
+        <text x="85" y="288" fill="white" font-size="11" font-weight="600" text-anchor="middle">User / CLI</text>
+        <text x="85" y="304" fill="#94a3b8" font-size="9" text-anchor="middle">orchestrator.py</text>
+
+        <!-- Orchestrator Box -->
+        <rect x="180" y="230" width="130" height="120" rx="8" fill="rgba(120, 53, 15, 0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+        <text x="245" y="255" fill="white" font-size="12" font-weight="600" text-anchor="middle">Orchestrator</text>
+        <text x="245" y="275" fill="#94a3b8" font-size="9" text-anchor="middle">State Machine</text>
+        <text x="245" y="295" fill="#fbbf24" font-size="8" text-anchor="middle">• state.json</text>
+        <text x="245" y="310" fill="#fbbf24" font-size="8" text-anchor="middle">• Stateful Resume</text>
+        <text x="245" y="325" fill="#fbbf24" font-size="8" text-anchor="middle">• 8-Step Pipeline</text>
+
+        <!-- Search Engine Box (Exa/Tavily) -->
+        <rect x="180" y="50" width="130" height="70" rx="6" fill="rgba(136, 19, 55, 0.4)" stroke="#fb7185" stroke-width="1.5"/>
+        <text x="245" y="78" fill="white" font-size="11" font-weight="600" text-anchor="middle">Live Web Search</text>
+        <text x="245" y="94" fill="#94a3b8" font-size="9" text-anchor="middle">Exa & Tavily API</text>
+
+        <!-- Pipeline Agents Cluster -->
+        <rect x="360" y="40" width="440" height="460" rx="12" fill="rgba(6, 78, 59, 0.2)" stroke="#34d399" stroke-width="1" stroke-dasharray="8,4"/>
+        <text x="375" y="60" fill="#34d399" font-size="10" font-weight="600">Specialized Multi-Agent Pipeline</text>
+
+        <!-- Step 0 & 1 -->
+        <rect x="380" y="80" width="180" height="50" rx="6" fill="rgba(8, 51, 68, 0.4)" stroke="#22d3ee" stroke-width="1.5"/>
+        <text x="470" y="102" fill="white" font-size="10" font-weight="600" text-anchor="middle">Intake & Deep Pain Agent</text>
+        <text x="470" y="118" fill="#94a3b8" font-size="8" text-anchor="middle">Step 0-1: 5W1H Intent Pre-filter</text>
+
+        <!-- Step 2 -->
+        <rect x="600" y="80" width="180" height="50" rx="6" fill="rgba(8, 51, 68, 0.4)" stroke="#22d3ee" stroke-width="1.5"/>
+        <text x="690" y="102" fill="white" font-size="10" font-weight="600" text-anchor="middle">Persona Research Agent</text>
+        <text x="690" y="118" fill="#94a3b8" font-size="8" text-anchor="middle">Step 2: 5 Persona Mapping</text>
+
+        <!-- Step 3 & 4 -->
+        <rect x="380" y="180" width="180" height="50" rx="6" fill="rgba(6, 78, 59, 0.4)" stroke="#34d399" stroke-width="1.5"/>
+        <text x="470" y="202" fill="white" font-size="10" font-weight="600" text-anchor="middle">Rejection Simulator</text>
+        <text x="470" y="218" fill="#94a3b8" font-size="8" text-anchor="middle">Step 3: Friction Detection</text>
+
+        <rect x="600" y="180" width="180" height="50" rx="6" fill="rgba(6, 78, 59, 0.4)" stroke="#34d399" stroke-width="1.5"/>
+        <text x="690" y="202" fill="white" font-size="10" font-weight="600" text-anchor="middle">Offer Synthesis Agent</text>
+        <text x="690" y="218" fill="#94a3b8" font-size="8" text-anchor="middle">Step 4: Less/Med/High Effort</text>
+
+        <!-- Step 5 & 6 -->
+        <rect x="380" y="280" width="180" height="50" rx="6" fill="rgba(76, 29, 149, 0.4)" stroke="#a78bfa" stroke-width="1.5"/>
+        <text x="470" y="302" fill="white" font-size="10" font-weight="600" text-anchor="middle">Funnel Ascent Agent</text>
+        <text x="470" y="318" fill="#94a3b8" font-size="8" text-anchor="middle">Step 5: Tripwire -> Core -> Upsell</text>
+
+        <rect x="600" y="280" width="180" height="50" rx="6" fill="rgba(136, 19, 55, 0.4)" stroke="#fb7185" stroke-width="1.5"/>
+        <text x="690" y="302" fill="white" font-size="10" font-weight="600" text-anchor="middle">12-Point QA Fixer Loop</text>
+        <text x="690" y="318" fill="#94a3b8" font-size="8" text-anchor="middle">Step 6: Auto-Fixer Retry (Max 2)</text>
+
+        <!-- Artifact Storage -->
+        <rect x="380" y="380" width="400" height="90" rx="6" fill="rgba(30, 41, 59, 0.5)" stroke="#94a3b8" stroke-width="1.5"/>
+        <text x="580" y="405" fill="white" font-size="11" font-weight="600" text-anchor="middle">Artifacts Repository (/artifacts/*.json)</text>
+        <text x="580" y="425" fill="#94a3b8" font-size="8" text-anchor="middle">0_intents.json • 1_5_market_research.json • 2_personas.json • 3_rejection.json</text>
+        <text x="580" y="440" fill="#94a3b8" font-size="8" text-anchor="middle">4_synthesis.json • 4_5_price_research.json • 5_validation.json • 5_validated_tripwire.json</text>
+
+        <!-- Exporter Output -->
+        <rect x="830" y="230" width="140" height="90" rx="8" fill="rgba(8, 51, 68, 0.5)" stroke="#22d3ee" stroke-width="1.5"/>
+        <text x="900" y="260" fill="white" font-size="11" font-weight="600" text-anchor="middle">Final Markdown</text>
+        <text x="900" y="278" fill="#94a3b8" font-size="9" text-anchor="middle">Exporter Agent</text>
+        <text x="900" y="298" fill="#22d3ee" font-size="8" text-anchor="middle">final-tripwire-funnel.md</text>
+
+        <!-- Connections -->
+        <line x1="140" y1="290" x2="178" y2="290" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+        <line x1="245" y1="230" x2="245" y2="122" stroke="#fb7185" stroke-width="1.5" stroke-dasharray="4,4" marker-end="url(#arrowhead)"/>
+        <line x1="310" y1="290" x2="358" y2="290" stroke="#fbbf24" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+        <line x1="800" y1="290" x2="828" y2="290" stroke="#22d3ee" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+      </svg>
+    </div>
+
+    <div class="cards">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-dot cyan"></div>
+          <h3>1. Intent & Deep Research</h3>
+        </div>
+        <ul>
+          <li>• 5W1H Intent Pre-filtering</li>
+          <li>• Real-time Exa & Tavily API search</li>
+          <li>• Grounding personas with legal/regulatory facts</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <div class="card-dot emerald"></div>
+          <h3>2. Rejection & Synthesis</h3>
+        </div>
+        <ul>
+          <li>• Challenge-driven rejection simulation</li>
+          <li>• Effort tiering (Less, Medium, High)</li>
+          <li>• Hidden problem trigger activation</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <div class="card-dot rose"></div>
+          <h3>3. QA Loop & Ascent</h3>
+        </div>
+        <ul>
+          <li>• 12-Point Guideline validation</li>
+          <li>• Automatic QA Fixer retry engine</li>
+          <li>• Seamless Tripwire -> Core -> Upsell Ascent</li>
+        </ul>
+      </div>
+    </div>
+
+    <p class="footer">
+      Tripwire Generator Skill Pack • High-Converting Performance Marketing Engine
+    </p>
+  </div>
+</body>
+</html>

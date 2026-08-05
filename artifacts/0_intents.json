@@ -1,0 +1,31 @@
+{
+  "classification": "B2B",
+  "analysis_5w1h": {
+    "what": "Jasa Konsultasi Pajak Korporat & Audit Kepatuhan",
+    "who": "Perusahaan Manufaktur",
+    "why": "Ekspor-impor",
+    "where": "Bekasi/Karawang",
+    "when": "Bulanan",
+    "how": "Retainer"
+  },
+  "search_queries": {
+    "deep_pain": [
+      "konsultasi pajak korporat",
+      "audit kepatuhan perusahaan",
+      "biaya konsultasi pajak"
+    ],
+    "pricing_recon": [
+      "harga jasa konsultasi pajak",
+      "biaya audit kepatuhan"
+    ],
+    "newsjacking": [
+      "perubahan pajak ekspor",
+      "kepatuhan pajak impor"
+    ],
+    "funnel_ascent": [
+      "jasa konsultasi pajak terbaik",
+      "konsultasi pajak korporat bekasi"
+    ]
+  },
+  "ready": true
+}

@@ -1,0 +1,21 @@
+{
+  "checklist": {
+    "1. Apakah harga tripwire sesuai dengan harga pasar?": false,
+    "2. Apakah deliverables yang ditawarkan relevan dengan kebutuhan target?": true,
+    "3. Apakah effort level yang diperlukan sesuai dengan estimasi?": true,
+    "4. Apakah hidden problem trigger yang diidentifikasi akurat?": true,
+    "5. Apakah core offer yang ditawarkan unik dan kompetitif?": true,
+    "6. Apakah target yang dipilih sesuai dengan persona yang dituju?": true,
+    "7. Apakah harga tripwire lebih rendah dari harga kompetitor?": false,
+    "8. Apakah deliverables yang ditawarkan memiliki nilai tambah?": true,
+    "9. Apakah effort level yang diperlukan dapat ditekan?": true,
+    "10. Apakah hidden problem trigger yang diidentifikasi dapat diatasi?": true,
+    "11. Apakah core offer yang ditawarkan dapat disesuaikan dengan kebutuhan target?": true,
+    "12. Apakah target yang dipilih memiliki potensi untuk meningkatkan penjualan?": true
+  },
+  "overall_pass": false,
+  "fixes": [
+    "Menyesuaikan harga tripwire dengan harga pasar",
+    "Menawarkan harga yang lebih kompetitif dibandingkan dengan kompetitor"
+  ]
+}

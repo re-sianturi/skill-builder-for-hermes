@@ -1,0 +1,17 @@
+# Ignore sensitive configuration files
+.env
+*.env
+credentials.json
+state.json
+artifacts/state.json
+
+# Ignore temporary state artifacts and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.final-tripwire-funnel.md.sw*
+.swp
+.swo
+.swn

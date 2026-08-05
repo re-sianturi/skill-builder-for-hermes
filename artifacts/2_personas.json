@@ -1,0 +1,219 @@
+{
+  "personas": [
+    {
+      "name": "Andi Setiawan",
+      "company": "PT. Maju Jaya",
+      "industry": "Manufaktur",
+      "location": "Bekasi",
+      "income": "Rp 10 Miliar/bulan",
+      "device": "Laptop dan Smartphone",
+      "thinking": "Andi selalu memprioritaskan efisiensi dan kepatuhan dalam operasional perusahaan",
+      "pain_points": [
+        "Sulitnya mengelola pajak perusahaan",
+        "Kurangnya kepatuhan terhadap regulasi pemerintah"
+      ],
+      "hidden_problem": "Kebocoran payroll dan kecurangan tim",
+      "challenge": "Bagaimana cara meningkatkan efisiensi dan kepatuhan perusahaan?",
+      "objection": "Biaya jasa konsultasi pajak terlalu mahal",
+      "status": " Menolak versi awal",
+      "deep_research_evidence": {
+        "pain_evidence": [
+          {
+            "title": "ABSTRAK Transformasi digital dalam administrasi perpajakan kini menjadi kebutuhan strategis bagi sektor manufaktur guna meningkatkan efisiensi dan akuntabilitas pengelolaan data. Penelitian ini bertujuan untuk menganalisis peran implementasi Core-Tax Administration System dalam mendukung transformasi digital di PT Delta Jaya Mas, dengan fokus utama pada peningkatan kepatuhan dan transparansi perpajakan selama masa transisi dari sistem manual. Penelitian ini menerapkan metode kualitatif melalui pendekatan studi kasus, di mana data dikumpulkan lewat wawancara mendalam, observasi proses pelaporan, dan analisis dokumen, kemudian diolah menggunakan model analisis interaktif Miles dan Huberman. Temuan penelitian menunjukkan bahwa penerapan Core-Tax secara signifikan meningkatkan efektivitas operasional melalui validasi data otomatis, pengarsipan digital, dan efisiensi pelaporan yang meminimalkan risiko duplikasi serta kesalahan administrasi. Selain itu, sistem ini memperkuat transparansi internal melalui akses data real-time dan menurunkan risiko ketidakpatuhan regulasi. Meskipun terdapat tantangan adaptasi sumber daya manusia pada tahap awal, disimpulkan bahwa Core Tax berkontribusi vital dalam memperkuat tata kelola perpajakan perusahaan yang lebih modern, akurat, dan terstruktur. Kata Kunci: Core-tax, perpajakan, digitalisasi, transparansi, kepatuhan.",
+            "snippet": "",
+            "link": "https://www.jurnalp4i.com/index.php/cendekia/article/download/8883/5939"
+          },
+          {
+            "title": "Transformasi Pelaporan SPT Tahunan Badan Sektor Manufaktur melalui Coretax System: Antara Simplifikasi Administrasi dan Tantangan Kepatuhan Substantif - Indosiber",
+            "snippet": "",
+            "link": "https://indosiber.id/2026/03/02/transformasi-pelaporan-spt-tahunan-badan-sektor-manufaktur-melalui-coretax-system-antara-simplifikasi-administrasi-dan-tantangan-kepatuhan-substantif/"
+          }
+        ],
+        "hidden_evidence": [
+          {
+            "title": "Waspada Hidden Payroll Cost, Penyebab Kebocoran Anggaran!",
+            "snippet": "1. Proses Administrasi Manual yang Tidak Efisien.\n\nBanyak perusahaan masih menghitung komponen upah menggunakan lembar kerja manual atau sistem yang usang. Proses ini membutuhkan waktu yang sangat lama dan tenaga kerja yang besar. Waktu yang terbuang untuk input data merupakan bentuk nyata dari biaya payroll tersembunyi. Selain itu, menurunnya produktivitas tim HR karena tugas repetitif ini juga menimbulkan kerugian finansial yang terselubung. [...] Banyak perusahaan merasa sudah menghitung anggaran gaji dengan cermat. Namun di akhir bulan, jumlah angkanya tetap meleset. Fenomena ini bukan sekadar kesalahan kalkulasi biasa. Namun terkadang, di balik slip gaji karyawan, tersembunyi biaya yang jarang disadari tim HR dan manajemen. Inilah yang dikenal sebagai hidden payroll cost, beban finansial yang tidak tampak di permukaan, tetapi nyata dampaknya pada kesehatan keuangan perusahaan.\n\nApa Itu Hidden Payroll Cost? [...] Hidden payroll cost adalah biaya tersembunyi yang muncul di luar komponen gaji pokok karyawan. Biaya ini tidak selalu tercatat secara eksplisit dalam laporan keuangan. Namun jika dibiarkan, dampaknya bisa signifikan terhadap profitabilitas perusahaan. Memahami biaya tersembunyi ini adalah langkah pertama untuk mengelolanya dengan bijak.\n\nApa Saja yang Menjadi Biaya Payroll Tersembunyi?\n\n\u200bBerikut adalah beberapa hal penting yang menjadi sumber utama munculnya biaya tersembunyi tersebut:",
+            "link": "https://www.gaji.id/id/2026/06/11/waspada-hidden-payroll-cost-biaya-tersembunyi-penyebab-kebocoran-anggaran-perusahaan"
+          },
+          {
+            "title": "Payroll Fraud Adalah: Jenis, Dampak, & Cara Mencegah Kecurangan ...",
+            "snippet": "### 5. Melakukan Audit Internal Secara Rutin\n\nBentuk tim auditor internal independen yang bertugas melakukan evaluasi kepatuhan prosedur penggajian tanpa perlu pemberitahuan terlebih dahulu kepada tim pelaksana payroll.\n\n### 6. Memberikan Pelatihan Fraud Awareness\n\nEdukasi seluruh jajaran manajemen dan karyawan mengenai jenis-jenis fraud, dampaknya bagi kelangsungan perusahaan, serta cara menggunakan sistem pelaporan pelanggaran secara anonim. [...] Tingginya volume data penggajian: Setiap bulan, Anda harus berurusan dengan ratusan hingga ribuan data komponen gaji karyawan, mulai dari gaji pokok, potongan, hingga insentif khusus.\n Keterlibatan banyak pihak dalam proses payroll: Proses ini melibatkan banyak tangan, mulai dari staf pencatat absensi, supervisor yang menyetujui lembur, tim HRD, hingga divisi keuangan yang mencairkan dana. [...] Penggelembungan waktu: Mengisi form lembur manual dengan menuliskan waktu pulang yang jauh lebih lambat dari aslinya.\n Klaim tidak valid: Sengaja menunda pekerjaan harian biasa agar bisa diklaim sebagai jam kerja lembur berbayar.\n\n### 3. Perubahan Data Gaji Tanpa Otorisasi\n\nBentuk manipulasi ini melibatkan akses ilegal langsung ke dalam sistem database atau dokumen sensitif milik tim keuangan perusahaan.",
+            "link": "https://kantorku.id/blog/payroll-fraud"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rina Wahyuni",
+      "company": "PT. Karya Indah",
+      "industry": "Manufaktur",
+      "location": "Karawang",
+      "income": "Rp 5 Miliar/bulan",
+      "device": "Laptop dan Smartphone",
+      "thinking": "Rina selalu memprioritaskan kepatuhan dan transparansi dalam operasional perusahaan",
+      "pain_points": [
+        "Sulitnya mengelola dokumen pajak",
+        "Kurangnya kepercayaan terhadap konsultan pajak"
+      ],
+      "hidden_problem": "Kesulitan dalam mengelola keuangan perusahaan",
+      "challenge": "Bagaimana cara meningkatkan kepatuhan dan transparansi perusahaan?",
+      "objection": "Kurangnya kepercayaan terhadap jasa konsultasi pajak",
+      "status": " Menolak versi awal",
+      "deep_research_evidence": {
+        "pain_evidence": [
+          {
+            "title": "Lonjakan Kasus SPT Tidak Benar pada 2024: Peringatan Serius bagi Sistem Pajak dan Pelaku Usaha - Ikatan Konsultan Pajak Indonesia",
+            "snippet": "",
+            "link": "https://ikpi.or.id/lonjakan-kasus-spt-tidak-benar-pada-2024-peringatan-serius-bagi-sistem-pajak-dan-pelaku-usaha/"
+          },
+          {
+            "title": "Pemanfaatan Kapabilitas Konsultan Pajak dalam Pemeriksaan ...",
+            "snippet": "",
+            "link": "https://www.owner.polgan.ac.id/index.php/owner/article/download/2959/1715"
+          }
+        ],
+        "hidden_evidence": [
+          {
+            "title": "5 Masalah Payroll yang Paling Sering Dialami Perusahaan",
+            "snippet": "Data payroll memuat informasi pribadi dan finansial karyawan yang sangat sensitif. Jika tidak dikelola dengan sistem yang aman, risiko kebocoran data sangat tinggi. Kebocoran ini dapat merugikan karyawan sekaligus mencederai reputasi perusahaan dan menimbulkan risiko hukum. Serangan siber dan pencurian data makin sering terjadi. Oleh karena itu, perusahaan harus memastikan sistem payroll memiliki fitur keamanan seperti enkripsi data, akses terbatas, dan audit trail. [...] ## 3. Administrasi Payroll yang Rumit dan Manual\n\nProses administrasi payroll yang rumit dan masih banyak dilakukan secara manual juga menjadi kendala. Proses manual menyebabkan kesalahan input data, keterlambatan pemrosesan, dan kesulitan mengelola data karyawan serta laporan pajak. Administrasi yang rumit membebani staf HR dan keuangan, menyita waktu dan energi yang seharusnya untuk tugas strategis. Akibatnya, efisiensi perusahaan menurun dan risiko kesalahan meningkat. [...] Payroll dan penagihan pembayaran adalah aspek penting dari manajemen perusahaan. Pengelolaan payroll bukan hanya soal membayar gaji karyawan, tetapi juga berurusan dengan kepatuhan aturan pajak, administrasi yang tertata, serta menjaga kepercayaan dan motivasi karyawan. Namun, banyak perusahaan menghadapi kendala dalam mengelola payroll secara efektif. Berikut lima masalah payroll yang paling umum terjadi serta dampaknya pada operasional dan morale karyawan.\n\n## 1. Kesalahan Perhitungan Pajak",
+            "link": "https://www.hipajak.id/artikel/5-masalah-payroll-yang-paling-sering-dialami-perusahaan"
+          },
+          {
+            "title": "13 Masalah Keuangan Perusahaan dan Solusi untuk Mengatasinya",
+            "snippet": "Arus kas yang tidak lancar bisa membuat bisnis kesulitan membayar gaji, pemasok, dan biaya operasional lainnya. Menurut sebuah studi dari U.S. Bank, sebanyak 82% bisnis yang gagal disebabkan oleh masalah arus kas.\n\nBanyak perusahaan menghadapi masalah ini karena kurangnya perencanaan keuangan dan pengelolaan piutang serta hutang yang kurang optimal. [...] ## 13. Manajemen biaya yang tidak transparan\n\nKurangnya transparansi dalam pengeluaran bisnis dapat menyebabkan pemborosan dan sulitnya mengontrol biaya. Tanpa sistem pemantauan yang jelas, perusahaan bisa kehilangan banyak uang tanpa disadari. Solusi dari masalah keuangan perusahaan ini adalah:\n\n Mengadopsi kebijakan pengeluaran yang ketat\n Menggunakan sistem otomatisasi pengelolaan biaya akan membantu perusahaan memahami dan mengendalikan pengeluaran dengan lebih baik [...] Mengelola bisnis tanpa perencanaan anggaran yang jelas seperti berjalan tanpa peta\u2014rentan terhadap risiko keuangan yang tidak terduga. Banyak bisnis mengalami kesulitan keuangan karena mengandalkan saldo rekening tanpa perencanaan pengeluaran yang terstruktur.\n\nAkibatnya, biaya operasional bisa membengkak dan keuntungan sulit dikendalikan. Solusinya adalah:",
+            "link": "https://mekari.com/blog/masalah-keuangan-perusahaan"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Budi Santoso",
+      "company": "PT. Berkah Jaya",
+      "industry": "Manufaktur",
+      "location": "Bekasi",
+      "income": "Rp 8 Miliar/bulan",
+      "device": "Laptop dan Smartphone",
+      "thinking": "Budi selalu memprioritaskan efisiensi dan keuntungan dalam operasional perusahaan",
+      "pain_points": [
+        "Sulitnya mengelola pajak perusahaan",
+        "Kurangnya kepatuhan terhadap regulasi pemerintah"
+      ],
+      "hidden_problem": "Kebocoran keuangan perusahaan",
+      "challenge": "Bagaimana cara meningkatkan efisiensi dan keuntungan perusahaan?",
+      "objection": "Biaya jasa konsultasi pajak terlalu mahal",
+      "status": " Menolak versi awal",
+      "deep_research_evidence": {
+        "pain_evidence": [
+          {
+            "title": "ABSTRAK Transformasi digital dalam administrasi perpajakan kini menjadi kebutuhan strategis bagi sektor manufaktur guna meningkatkan efisiensi dan akuntabilitas pengelolaan data. Penelitian ini bertujuan untuk menganalisis peran implementasi Core-Tax Administration System dalam mendukung transformasi digital di PT Delta Jaya Mas, dengan fokus utama pada peningkatan kepatuhan dan transparansi perpajakan selama masa transisi dari sistem manual. Penelitian ini menerapkan metode kualitatif melalui pendekatan studi kasus, di mana data dikumpulkan lewat wawancara mendalam, observasi proses pelaporan, dan analisis dokumen, kemudian diolah menggunakan model analisis interaktif Miles dan Huberman. Temuan penelitian menunjukkan bahwa penerapan Core-Tax secara signifikan meningkatkan efektivitas operasional melalui validasi data otomatis, pengarsipan digital, dan efisiensi pelaporan yang meminimalkan risiko duplikasi serta kesalahan administrasi. Selain itu, sistem ini memperkuat transparansi internal melalui akses data real-time dan menurunkan risiko ketidakpatuhan regulasi. Meskipun terdapat tantangan adaptasi sumber daya manusia pada tahap awal, disimpulkan bahwa Core Tax berkontribusi vital dalam memperkuat tata kelola perpajakan perusahaan yang lebih modern, akurat, dan terstruktur. Kata Kunci: Core-tax, perpajakan, digitalisasi, transparansi, kepatuhan.",
+            "snippet": "",
+            "link": "https://www.jurnalp4i.com/index.php/cendekia/article/download/8883/5939"
+          },
+          {
+            "title": "Transformasi Pelaporan SPT Tahunan Badan Sektor Manufaktur melalui Coretax System: Antara Simplifikasi Administrasi dan Tantangan Kepatuhan Substantif - Indosiber",
+            "snippet": "",
+            "link": "https://indosiber.id/2026/03/02/transformasi-pelaporan-spt-tahunan-badan-sektor-manufaktur-melalui-coretax-system-antara-simplifikasi-administrasi-dan-tantangan-kepatuhan-substantif/"
+          }
+        ],
+        "hidden_evidence": [
+          {
+            "title": "Cara mendeteksi kebocoran udara bertekanan, gas, dan vakum SERTA menemukan keuntungan tersembunyi | Fluke",
+            "snippet": "metode tradisional. Dengan menemukan dan memperbaiki kebocoran secara cepat, kru tersebut juga menghemat potensi downtime, yang dapat menyebabkan biaya yang diperkirakan mencapai $100.000 per jam akibat hilangnya produktivitas di pabrik ini. [...] Perbaikan kebocoran yang efisien dapat menyebabkan pengurangan biaya yang substansial untuk bisnis yang bergantung pada udara. Perusahaan tidak hanya dapat menghemat penggunaan energi dengan memperbaiki kebocoran tetapi juga dapat meningkatkan level produksi dan memperpanjang masa pakai peralatan.\n\nChat denganasisten Fluke\n\nHapus Chat\n\nHubungi Kami\n\nDapatkan diskon 10% [...] Banyak pabrik dan fasilitas tidak memiliki program deteksi kebocoran. Menemukan dan memperbaiki kebocoran tidaklah mudah. Menghitung jumlah pemborosan dan menentukan biaya memerlukan spesialis atau konsultan energi yang menggunakan penganalisis dan pencatat energi untuk mengaudit sistem udara Anda. Dengan menghitung penghematan biaya tahunan secara sistematis dari hilangnya kebocoran, pabrik dan fasilitas dapat menjalankan bisnis yang kuat untuk melanjutkan proyeknya.",
+            "link": "https://www.fluke.com/id-id/pelajari/blog/deteksi-kebocoran/keuntungan-mendeteksi-kebocoran-udara-terkompresi"
+          },
+          {
+            "title": "Apa itu kebocoran data?",
+            "snippet": "Tujuan utama kebocoran data adalah agar penjahat dunia maya\nmengumpulkan informasi yang dapat mereka gunakan untuk keuntungan\nfinansial atau keuntungan lainnya. Ada banyak jenis data yang dapat\ndicuri dan digunakan oleh pelaku ancaman untuk keuntungan mereka, dan\nancaman ini dapat terkait dengan individu atau perusahaan dan\norganisasi.\n\nBeberapa contoh jenis data yang dicari dalam kebocoran data\nmeliputi: [...] Baik korbannya perorangan atau perusahaan besar, kebocoran data dapat\nmengakibatkan dampak buruk yang besar. Sementara implikasi kebocoran\ndata bagi seorang individu bisa sangat menghancurkan secara pribadi,\ndampaknya pada sebuah organisasi terjadi dalam skala yang lebih besar,\nyang menyebabkan kerusakan pada reputasi publik atau kerugian finansial\nyang besar, misalnya. [...] Kebocoran data, atau data leaking, adalah terungkapnya data sensitif\nkepada penjahat dunia maya. Informasi tersebut dapat bersifat pribadi\natau terkait dengan bisnis atau organisasi. Kebocoran dapat terjadi\nsecara elektronik, seperti melalui internet atau email, tetapi dapat\njuga terjadi secara fisik, seperti melalui laptop dan perangkat lain,\natau perangkat penyimpanan seperti USB dan hard drive eksternal.",
+            "link": "https://id.kaspersky.com/resource-center/definitions/data-leakage"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sri Wahyuni",
+      "company": "PT. Surya Indah",
+      "industry": "Manufaktur",
+      "location": "Karawang",
+      "income": "Rp 12 Miliar/bulan",
+      "device": "Laptop dan Smartphone",
+      "thinking": "Sri selalu memprioritaskan kepatuhan dan transparansi dalam operasional perusahaan",
+      "pain_points": [
+        "Sulitnya mengelola dokumen pajak",
+        "Kurangnya kepercayaan terhadap konsultan pajak"
+      ],
+      "hidden_problem": "Kesulitan dalam mengelola keuangan perusahaan",
+      "challenge": "Bagaimana cara meningkatkan kepatuhan dan transparansi perusahaan?",
+      "objection": "Kurangnya kepercayaan terhadap jasa konsultasi pajak",
+      "status": " Menolak versi awal",
+      "deep_research_evidence": {
+        "pain_evidence": [
+          {
+            "title": "Lonjakan Kasus SPT Tidak Benar pada 2024: Peringatan Serius bagi Sistem Pajak dan Pelaku Usaha - Ikatan Konsultan Pajak Indonesia",
+            "snippet": "",
+            "link": "https://ikpi.or.id/lonjakan-kasus-spt-tidak-benar-pada-2024-peringatan-serius-bagi-sistem-pajak-dan-pelaku-usaha/"
+          },
+          {
+            "title": "Pemanfaatan Kapabilitas Konsultan Pajak dalam Pemeriksaan ...",
+            "snippet": "",
+            "link": "https://www.owner.polgan.ac.id/index.php/owner/article/download/2959/1715"
+          }
+        ],
+        "hidden_evidence": [
+          {
+            "title": "5 Masalah Payroll yang Paling Sering Dialami Perusahaan",
+            "snippet": "Data payroll memuat informasi pribadi dan finansial karyawan yang sangat sensitif. Jika tidak dikelola dengan sistem yang aman, risiko kebocoran data sangat tinggi. Kebocoran ini dapat merugikan karyawan sekaligus mencederai reputasi perusahaan dan menimbulkan risiko hukum. Serangan siber dan pencurian data makin sering terjadi. Oleh karena itu, perusahaan harus memastikan sistem payroll memiliki fitur keamanan seperti enkripsi data, akses terbatas, dan audit trail. [...] ## 3. Administrasi Payroll yang Rumit dan Manual\n\nProses administrasi payroll yang rumit dan masih banyak dilakukan secara manual juga menjadi kendala. Proses manual menyebabkan kesalahan input data, keterlambatan pemrosesan, dan kesulitan mengelola data karyawan serta laporan pajak. Administrasi yang rumit membebani staf HR dan keuangan, menyita waktu dan energi yang seharusnya untuk tugas strategis. Akibatnya, efisiensi perusahaan menurun dan risiko kesalahan meningkat. [...] Payroll dan penagihan pembayaran adalah aspek penting dari manajemen perusahaan. Pengelolaan payroll bukan hanya soal membayar gaji karyawan, tetapi juga berurusan dengan kepatuhan aturan pajak, administrasi yang tertata, serta menjaga kepercayaan dan motivasi karyawan. Namun, banyak perusahaan menghadapi kendala dalam mengelola payroll secara efektif. Berikut lima masalah payroll yang paling umum terjadi serta dampaknya pada operasional dan morale karyawan.\n\n## 1. Kesalahan Perhitungan Pajak",
+            "link": "https://www.hipajak.id/artikel/5-masalah-payroll-yang-paling-sering-dialami-perusahaan"
+          },
+          {
+            "title": "13 Masalah Keuangan Perusahaan dan Solusi untuk Mengatasinya",
+            "snippet": "Arus kas yang tidak lancar bisa membuat bisnis kesulitan membayar gaji, pemasok, dan biaya operasional lainnya. Menurut sebuah studi dari U.S. Bank, sebanyak 82% bisnis yang gagal disebabkan oleh masalah arus kas.\n\nBanyak perusahaan menghadapi masalah ini karena kurangnya perencanaan keuangan dan pengelolaan piutang serta hutang yang kurang optimal. [...] ## 13. Manajemen biaya yang tidak transparan\n\nKurangnya transparansi dalam pengeluaran bisnis dapat menyebabkan pemborosan dan sulitnya mengontrol biaya. Tanpa sistem pemantauan yang jelas, perusahaan bisa kehilangan banyak uang tanpa disadari. Solusi dari masalah keuangan perusahaan ini adalah:\n\n Mengadopsi kebijakan pengeluaran yang ketat\n Menggunakan sistem otomatisasi pengelolaan biaya akan membantu perusahaan memahami dan mengendalikan pengeluaran dengan lebih baik [...] Mengelola bisnis tanpa perencanaan anggaran yang jelas seperti berjalan tanpa peta\u2014rentan terhadap risiko keuangan yang tidak terduga. Banyak bisnis mengalami kesulitan keuangan karena mengandalkan saldo rekening tanpa perencanaan pengeluaran yang terstruktur.\n\nAkibatnya, biaya operasional bisa membengkak dan keuntungan sulit dikendalikan. Solusinya adalah:",
+            "link": "https://mekari.com/blog/masalah-keuangan-perusahaan"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tono Sudarto",
+      "company": "PT. Tono Jaya",
+      "industry": "Manufaktur",
+      "location": "Bekasi",
+      "income": "Rp 15 Miliar/bulan",
+      "device": "Laptop dan Smartphone",
+      "thinking": "Tono selalu memprioritaskan efisiensi dan keuntungan dalam operasional perusahaan",
+      "pain_points": [
+        "Sulitnya mengelola pajak perusahaan",
+        "Kurangnya kepatuhan terhadap regulasi pemerintah"
+      ],
+      "hidden_problem": "Kebocoran keuangan perusahaan",
+      "challenge": "Bagaimana cara meningkatkan efisiensi dan keuntungan perusahaan?",
+      "objection": "Biaya jasa konsultasi pajak terlalu mahal",
+      "status": " Menolak versi awal",
+      "deep_research_evidence": {
+        "pain_evidence": [
+          {
+            "title": "ABSTRAK Transformasi digital dalam administrasi perpajakan kini menjadi kebutuhan strategis bagi sektor manufaktur guna meningkatkan efisiensi dan akuntabilitas pengelolaan data. Penelitian ini bertujuan untuk menganalisis peran implementasi Core-Tax Administration System dalam mendukung transformasi digital di PT Delta Jaya Mas, dengan fokus utama pada peningkatan kepatuhan dan transparansi perpajakan selama masa transisi dari sistem manual. Penelitian ini menerapkan metode kualitatif melalui pendekatan studi kasus, di mana data dikumpulkan lewat wawancara mendalam, observasi proses pelaporan, dan analisis dokumen, kemudian diolah menggunakan model analisis interaktif Miles dan Huberman. Temuan penelitian menunjukkan bahwa penerapan Core-Tax secara signifikan meningkatkan efektivitas operasional melalui validasi data otomatis, pengarsipan digital, dan efisiensi pelaporan yang meminimalkan risiko duplikasi serta kesalahan administrasi. Selain itu, sistem ini memperkuat transparansi internal melalui akses data real-time dan menurunkan risiko ketidakpatuhan regulasi. Meskipun terdapat tantangan adaptasi sumber daya manusia pada tahap awal, disimpulkan bahwa Core Tax berkontribusi vital dalam memperkuat tata kelola perpajakan perusahaan yang lebih modern, akurat, dan terstruktur. Kata Kunci: Core-tax, perpajakan, digitalisasi, transparansi, kepatuhan.",
+            "snippet": "",
+            "link": "https://www.jurnalp4i.com/index.php/cendekia/article/download/8883/5939"
+          },
+          {
+            "title": "Transformasi Pelaporan SPT Tahunan Badan Sektor Manufaktur melalui Coretax System: Antara Simplifikasi Administrasi dan Tantangan Kepatuhan Substantif - Indosiber",
+            "snippet": "",
+            "link": "https://indosiber.id/2026/03/02/transformasi-pelaporan-spt-tahunan-badan-sektor-manufaktur-melalui-coretax-system-antara-simplifikasi-administrasi-dan-tantangan-kepatuhan-substantif/"
+          }
+        ],
+        "hidden_evidence": [
+          {
+            "title": "Cara mendeteksi kebocoran udara bertekanan, gas, dan vakum SERTA menemukan keuntungan tersembunyi | Fluke",
+            "snippet": "metode tradisional. Dengan menemukan dan memperbaiki kebocoran secara cepat, kru tersebut juga menghemat potensi downtime, yang dapat menyebabkan biaya yang diperkirakan mencapai $100.000 per jam akibat hilangnya produktivitas di pabrik ini. [...] Perbaikan kebocoran yang efisien dapat menyebabkan pengurangan biaya yang substansial untuk bisnis yang bergantung pada udara. Perusahaan tidak hanya dapat menghemat penggunaan energi dengan memperbaiki kebocoran tetapi juga dapat meningkatkan level produksi dan memperpanjang masa pakai peralatan.\n\nChat denganasisten Fluke\n\nHapus Chat\n\nHubungi Kami\n\nDapatkan diskon 10% [...] Banyak pabrik dan fasilitas tidak memiliki program deteksi kebocoran. Menemukan dan memperbaiki kebocoran tidaklah mudah. Menghitung jumlah pemborosan dan menentukan biaya memerlukan spesialis atau konsultan energi yang menggunakan penganalisis dan pencatat energi untuk mengaudit sistem udara Anda. Dengan menghitung penghematan biaya tahunan secara sistematis dari hilangnya kebocoran, pabrik dan fasilitas dapat menjalankan bisnis yang kuat untuk melanjutkan proyeknya.",
+            "link": "https://www.fluke.com/id-id/pelajari/blog/deteksi-kebocoran/keuntungan-mendeteksi-kebocoran-udara-terkompresi"
+          },
+          {
+            "title": "Apa itu kebocoran data?",
+            "snippet": "Tujuan utama kebocoran data adalah agar penjahat dunia maya\nmengumpulkan informasi yang dapat mereka gunakan untuk keuntungan\nfinansial atau keuntungan lainnya. Ada banyak jenis data yang dapat\ndicuri dan digunakan oleh pelaku ancaman untuk keuntungan mereka, dan\nancaman ini dapat terkait dengan individu atau perusahaan dan\norganisasi.\n\nBeberapa contoh jenis data yang dicari dalam kebocoran data\nmeliputi: [...] Baik korbannya perorangan atau perusahaan besar, kebocoran data dapat\nmengakibatkan dampak buruk yang besar. Sementara implikasi kebocoran\ndata bagi seorang individu bisa sangat menghancurkan secara pribadi,\ndampaknya pada sebuah organisasi terjadi dalam skala yang lebih besar,\nyang menyebabkan kerusakan pada reputasi publik atau kerugian finansial\nyang besar, misalnya. [...] Kebocoran data, atau data leaking, adalah terungkapnya data sensitif\nkepada penjahat dunia maya. Informasi tersebut dapat bersifat pribadi\natau terkait dengan bisnis atau organisasi. Kebocoran dapat terjadi\nsecara elektronik, seperti melalui internet atau email, tetapi dapat\njuga terjadi secara fisik, seperti melalui laptop dan perangkat lain,\natau perangkat penyimpanan seperti USB dan hard drive eksternal.",
+            "link": "https://id.kaspersky.com/resource-center/definitions/data-leakage"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "order_bump": {
+    "title": "Paket Tambahan Analisis Kebocoran Biaya",
+    "deliverables": [
+      "Laporan analisis kebocoran biaya",
+      "Rekomendasi perbaikan"
+    ],
+    "effort_level": "Medium Effort",
+    "estimated_price": "Rp 200.000",
+    "hidden_problem_trigger": "Kebocoran keuangan perusahaan"
+  },
+  "core_offer_transition": {
+    "title": "Jasa Konsultasi Pajak Korporat & Audit Kepatuhan Retainer",
+    "price": "Rp 15.000.000/bln",
+    "deliverables": [
+      "Konsultasi pajak korporat",
+      "Audit kepatuhan"
+    ],
+    "effort_level": "High Effort",
+    "hidden_problem_trigger": "Kesulitan dalam mengelola keuangan perusahaan"
+  },
+  "upsell_offer": {
+    "title": "Paket Premium Jasa Konsultasi Pajak Korporat & Audit Kepatuhan",
+    "deliverables": [
+      "Konsultasi pajak korporat",
+      "Audit kepatuhan",
+      "Analisis kebocoran biaya",
+      "Rekomendasi perbaikan"
+    ],
+    "effort_level": "High Effort",
+    "estimated_price": "Rp 25.000.000/bln",
+    "hidden_problem_trigger": "Kebocoran keuangan perusahaan dan kesulitan dalam mengelola keuangan perusahaan"
+  }
+}
